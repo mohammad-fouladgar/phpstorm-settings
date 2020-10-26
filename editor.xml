@@ -5,13 +5,13 @@
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Customized" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="JetBrains Mono Medium" />
     <option name="LINE_SPACING" value="1.6" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -29,6 +29,7 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
