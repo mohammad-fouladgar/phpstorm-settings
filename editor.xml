@@ -5,13 +5,12 @@
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Customized" />
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_SIZE" value="20" />
     <option name="LINE_SPACING" value="1.6" />
     <option name="USE_LIGATURES" value="true" />
   </component>
