@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Symfony\Component\Cache\Adapter\AdapterInterface.getItem(key)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
