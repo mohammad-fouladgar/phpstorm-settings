@@ -6,6 +6,7 @@
           <set>
             <option value="middleware is already registered" />
             <option value="And" />
+            <option value="class that contains" />
           </set>
         </option>
       </SuppressingContext>
