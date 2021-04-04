@@ -1291,4 +1291,73 @@
       <option name="JSP" value="true" />
     </context>
   </template>
+  <template name="!" value="&lt;!doctype html&gt;&#10;&lt;html lang=&quot;$ENV_LOCALE$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;$CHARSET$&quot;&gt;&#10;             &lt;meta name=&quot;viewport&quot; content=&quot;width=$WIDTH$, user-scalable=$SCALABLE$, initial-scale=$INITIAL_SCALE$, maximum-scale=$MAX_SCALE$, minimum-scale=$MIN_SCALE$&quot;&gt;&#10;                         &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;ie=$IE$&quot;&gt;&#10;             &lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="ENV_LOCALE" expression="" defaultValue="&quot;en&quot;" alwaysStopAt="true" />
+    <variable name="CHARSET" expression="" defaultValue="&quot;UTF-8&quot;" alwaysStopAt="true" />
+    <variable name="WIDTH" expression="" defaultValue="&quot;device-width&quot;" alwaysStopAt="true" />
+    <variable name="SCALABLE" expression="" defaultValue="&quot;no&quot;" alwaysStopAt="true" />
+    <variable name="INITIAL_SCALE" expression="" defaultValue="&quot;1.0&quot;" alwaysStopAt="true" />
+    <variable name="MAX_SCALE" expression="" defaultValue="&quot;1.0&quot;" alwaysStopAt="true" />
+    <variable name="MIN_SCALE" expression="" defaultValue="&quot;1.0&quot;" alwaysStopAt="true" />
+    <variable name="IE" expression="" defaultValue="&quot;edge&quot;" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="&quot;Document&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="div" value="&lt;div&gt;$END$&lt;/div&gt;" description="&lt;div&gt;...&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="span" value="&lt;span&gt;$END$&lt;/span&gt;" description="&lt;span&gt;...&lt;/span&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="h1" value="&lt;h1&gt;$END$&lt;/h1&gt;" description="&lt;h1&gt;...&lt;/h1&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="h2" value="&lt;h2&gt;$END$&lt;/h2&gt;" description="&lt;h2&gt;...&lt;/h2&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="h3" value="&lt;h3&gt;$END$&lt;/h3&gt;" description="&lt;h3&gt;...&lt;/h3&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="h4" value="&lt;h4&gt;$END$&lt;/h4&gt;" description="&lt;h4&gt;...&lt;/h4&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="h5" value="&lt;h5&gt;$END$&lt;/h5&gt;" description="&lt;h5&gt;...&lt;/h5&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="h6" value="&lt;h6&gt;$END$&lt;/h6&gt;" description="&lt;h6&gt;...&lt;/h6&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="ol" value="&lt;ol&gt;$END$&lt;/ol&gt;" description="&lt;ol&gt;...&lt;/ol&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="ul" value="&lt;ul&gt;$END$&lt;/ul&gt;" description="&lt;ul&gt;...&lt;/ul&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="title" value="&lt;title&gt;$END$&lt;/title&gt;" description="&lt;title&gt;...&lt;/title&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="p" value="&lt;p&gt;$END$&lt;/p&gt;" description="&lt;p&gt;...&lt;/p&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="head" value="&lt;head&gt;$END$&lt;/head&gt;" description="&lt;head&gt;...&lt;/head&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="header" value="&lt;header&gt;$END$&lt;/header&gt;" description="&lt;header&gt;...&lt;/header&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="b" value="&lt;b&gt;$END$&lt;/b&gt;" description="&lt;b&gt;...&lt;/b&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="i" value="&lt;i&gt;$END$&lt;/i&gt;" description="&lt;i&gt;...&lt;/i&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="table" value="&lt;table&gt;$END$&lt;/table&gt;" description="&lt;table&gt;...&lt;/table&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="td" value="&lt;td&gt;$END$&lt;/td&gt;" description="&lt;td&gt;...&lt;/td&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="li" value="&lt;li&gt;$END$&lt;/li&gt;" description="&lt;li&gt;...&lt;/li&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>

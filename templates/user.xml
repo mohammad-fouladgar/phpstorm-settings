@@ -25,4 +25,11 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="formsubmit" value="$form = $this-&gt;createForm($FORMTYPE$::class);&#10;        $form-&gt;submit($request-&gt;request-&gt;all(), false);&#10;&#10;        if ($form-&gt;isSubmitted() &amp;&amp; $form-&gt;isValid()) {&#10;            /** @var   $object */&#10;            $object = $form-&gt;getData();&#10;            $em = $this-&gt;getDoctrine()-&gt;getManager();&#10;            $em-&gt;persist($user);&#10;            $em-&gt;flush();&#10;&#10;            return ;&#10;        }" description="Create a symfony form and submit it." toReformat="true" toShortenFQNames="true">
+    <variable name="FORMTYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
