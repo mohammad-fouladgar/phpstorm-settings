@@ -9,7 +9,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="phpunit" value="        /** @test */&#10;        public function $NAME$()&#10;        {&#10;           $END$&#10;        }" description="Create a Test Method for PhpUnit" toReformat="true" toShortenFQNames="true">
+  <template name="phpunit" value="/** @test */&#10;public function $NAME$()&#10;{&#10;   $END$&#10;}" description="Create a Test Method for PhpUnit" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
