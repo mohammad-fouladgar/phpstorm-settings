@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="rm" type="Markdown" />
       <mapping ext="twing" type="Twig" />
     </extensionMap>
   </component>
