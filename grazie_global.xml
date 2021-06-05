@@ -4,9 +4,10 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="middleware is already registered" />
-            <option value="And" />
             <option value="class that contains" />
+            <option value="And" />
+            <option value="middleware is already registered" />
+            <option value="But" />
           </set>
         </option>
       </SuppressingContext>
