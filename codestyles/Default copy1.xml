@@ -18,6 +18,11 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
