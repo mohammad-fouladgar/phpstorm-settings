@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="79cb60" />
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="46037f5b:17190d4530b:-8000" />
