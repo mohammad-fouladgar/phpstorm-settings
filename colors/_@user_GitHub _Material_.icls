@@ -4,7 +4,7 @@
     <property name="created">2021-07-28T15:04:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-07-29T10:55:05</property>
+    <property name="modified">2021-07-29T11:19:08</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -765,7 +765,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="dddddd" />
+        <option name="BACKGROUND" value="f7f8fa" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -2875,6 +2875,11 @@
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="22863a" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="24292e" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
