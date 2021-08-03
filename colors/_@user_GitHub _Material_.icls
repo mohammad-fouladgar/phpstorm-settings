@@ -4,7 +4,7 @@
     <property name="created">2021-08-02T17:08:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-08-03T18:18:31</property>
+    <property name="modified">2021-08-03T20:29:26</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -134,6 +134,7 @@
     <option name="ScrollBar.hoverTrackColor" value="ffffff" />
     <option name="ScrollBar.thumbColor" value="cce5ffc0" />
     <option name="ScrollBar.trackColor" value="ffffff" />
+    <option name="TABS" value="9a9494" />
     <option name="TAB_UNDERLINE" value="cce5ff" />
     <option name="TAB_UNDERLINE_INACTIVE" value="cce5ff80" />
     <option name="TEARLINE_COLOR" value="dddddd" />
