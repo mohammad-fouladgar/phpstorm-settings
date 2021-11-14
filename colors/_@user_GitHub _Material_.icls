@@ -4,7 +4,7 @@
     <property name="created">2021-11-14T10:14:20</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-11-14T10:31:14</property>
+    <property name="modified">2021-11-14T10:59:26</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -764,9 +764,7 @@
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="dddddd" />
-      </value>
+      <value />
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
@@ -2735,6 +2733,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1c2125" />
+        <option name="BACKGROUND" value="d7d7d7" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
@@ -2875,6 +2874,11 @@
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="22863a" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="24292e" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
