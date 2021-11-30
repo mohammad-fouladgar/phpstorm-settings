@@ -1,10 +1,10 @@
 <scheme name="_@user_GitHub (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-07-30T12:43:04</property>
+    <property name="created">2021-11-14T10:14:20</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-07-30T12:44:30</property>
+    <property name="modified">2021-11-14T10:59:26</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -764,9 +764,7 @@
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="dddddd" />
-      </value>
+      <value />
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
@@ -2735,6 +2733,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1c2125" />
+        <option name="BACKGROUND" value="d7d7d7" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
