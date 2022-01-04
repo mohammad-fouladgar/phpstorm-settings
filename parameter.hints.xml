@@ -4,6 +4,7 @@
       <blacklist language="PHP">
         <added pattern="\Symfony\Component\Cache\Adapter\AdapterInterface.getItem(key)" />
         <added pattern="\config(key,default)" />
+        <added pattern="\Eloquent.select(columns)" />
       </blacklist>
     </blacklists>
   </component>
