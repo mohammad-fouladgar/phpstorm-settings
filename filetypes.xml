@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="rm" type="Markdown" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitatt" type="PLAIN_TEXT" />
       <mapping ext="twing" type="Twig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
