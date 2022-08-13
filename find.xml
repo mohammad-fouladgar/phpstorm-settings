@@ -5,6 +5,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <mask>php</mask>
+    <mask>`</mask>
     <mask>*.php</mask>
   </component>
 </application>
