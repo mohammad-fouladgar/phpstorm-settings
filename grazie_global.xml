@@ -4,12 +4,13 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="And" />
             <option value="But" />
             <option value="class that contains" />
-            <option value="default storage driver" />
-            <option value="middleware is already registered" />
             <option value="transition is successfully performed" />
+            <option value="And" />
+            <option value="middleware is already registered" />
+            <option value="default storage driver" />
+            <option value="and" />
           </set>
         </option>
       </SuppressingContext>
