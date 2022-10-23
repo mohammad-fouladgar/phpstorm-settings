@@ -4,7 +4,7 @@
     <property name="created">2022-09-24T15:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2022-10-14T14:21:20</property>
+    <property name="modified">2022-10-23T12:02:57</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2735,6 +2735,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1c2125" />
+        <option name="BACKGROUND" value="b4b4b6" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
