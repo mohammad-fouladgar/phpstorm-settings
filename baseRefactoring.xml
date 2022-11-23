@@ -5,7 +5,7 @@
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_METHOD" value="true" />
-    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
     <option name="EXTRACT_METHOD_GENERATE_PHPDOC" value="false" />
   </component>
 </application>
