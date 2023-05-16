@@ -1,8 +1,8 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
-    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="reopenLastProject" value="false" />
+    <option name="confirmExit" value="false" />
     <option name="supportScreenReaders" value="true" />
   </component>
   <component name="Registry">
@@ -17,6 +17,10 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="777777" />
+    <entry key="editor.focus.mode.color.dark" value="777777" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

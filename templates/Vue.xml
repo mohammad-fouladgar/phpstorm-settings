@@ -24,11 +24,9 @@
   </template>
   <template name="vdec" value="return this.$variable$ -= 1;" description="Decrement value" toReformat="true" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="&quot;num&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vinc" value="return this.$variable$ += 1;" description="Increment value" toReformat="true" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="&quot;num&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vcomputed" value="computed: {&#10; $name$() {&#10;  return this.$data$ $END$;&#10; }&#10;}," description="Computed value" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
@@ -68,7 +66,6 @@
   </template>
   <template name="vimport-c" value="components: {&#10; $New$,&#10;}" description="Import Vue component into another, within export statement" toReformat="true" toShortenFQNames="true">
     <variable name="New" expression="" defaultValue="&quot;New&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vmethod" value="methods: {&#10; $name$() {&#10;  $END$&#10; }&#10;}," description="Vue method" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
