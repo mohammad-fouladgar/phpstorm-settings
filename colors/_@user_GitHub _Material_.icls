@@ -4,17 +4,17 @@
     <property name="created">2023-05-16T13:48:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-05-16T13:50:46</property>
+    <property name="modified">2023-05-16T14:01:38</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -1851,7 +1851,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1c2125" />
+        <option name="FOREGROUND" value="ababab" />
+        <option name="BACKGROUND" value="f7f8fa" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">

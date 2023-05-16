@@ -7,6 +7,9 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Customized" />
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
