@@ -14,7 +14,7 @@
     </option>
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".inheritors" />
+    <option name="lastViewedProviderKeyId" value="SQL.parameter.hints.old.sql.show.column.names.for.asterisk" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
