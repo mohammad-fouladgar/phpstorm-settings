@@ -1,43 +1,6 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-  </component>
-  <component name="CodeVisionSettings">
-    <option name="enabled" value="false" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Customized" />
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="Blade" value="true" />
-        <entry key="PHP" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_DND_ENABLED" value="false" />
-    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
-  </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
-  <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_PHP_TAGS" value="true" />
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
-    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
-    <option name="COLLAPSE_METHOD_BODY" value="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
