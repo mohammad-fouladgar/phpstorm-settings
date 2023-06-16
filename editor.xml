@@ -13,6 +13,9 @@
       </map>
     </option>
   </component>
+  <component name="EditorSettings">
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="SQL.parameter.hints.old.sql.show.column.names.for.asterisk" />
   </component>
