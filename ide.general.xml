@@ -25,7 +25,6 @@
         <entry key="PowerSaveMode" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="VFS_REFRESH" value="true" />
-        <entry key="mtThemeFactory" value="false" />
         <entry key="php.debug.status.widget" value="false" />
       </map>
     </option>
