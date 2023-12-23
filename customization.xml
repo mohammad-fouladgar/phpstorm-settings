@@ -142,6 +142,12 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
