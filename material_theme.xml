@@ -6,9 +6,12 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="rightTreeIndent" value="6" />
-    <option name="accentColor" value="79cb60" />
+    <option name="accentColor" value="0f111a" />
+    <option name="secondAccentColor" />
+    <option name="highlightColor" />
+    <option name="focusColor" />
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="46037f5b:17190d4530b:-8000" />
-    <option name="version" value="8.6.3" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>

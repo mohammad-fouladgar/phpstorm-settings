@@ -1,10 +1,10 @@
-<scheme name="_@user_Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-06-17T17:41:35</property>
+    <property name="created">2023-12-20T11:22:00</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2023.1.2.0.0</property>
+    <property name="ideVersion">2023.2.1.0.0</property>
     <property name="modified">2023-12-23T13:58:19</property>
-    <property name="originalScheme">Light</property>
+    <property name="originalScheme">Dark</property>
     <property name="partialSave">true</property>
   </metaInfo>
   <colors>
@@ -17,16 +17,12 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d73a49" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d73a49" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d73a49" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="22863a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="32f62" />
     <option name="FILESTATUS_MERGED" value="6f42c1" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />

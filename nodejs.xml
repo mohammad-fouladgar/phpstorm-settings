@@ -1,9 +1,22 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="/bin/node" />
-    <local-interpreter path="/usr/bin/node" />
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.3.0/bin/node" />
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.0/bin/node" />
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.15.1/bin/node" />
+    <local-interpreter path="/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="10.19.0" last-modified="1585664771000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.3.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.15.1/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker://node:slim/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="node:slim" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
   </component>
 </application>
