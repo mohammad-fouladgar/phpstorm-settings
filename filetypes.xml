@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="rm" type="Markdown" />
       <mapping pattern=".gitatt" type="PLAIN_TEXT" />
