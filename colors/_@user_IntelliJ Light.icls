@@ -1,11 +1,12 @@
-<scheme name="_@user_Light" version="142" parent_scheme="Default">
+<scheme name="_@user_IntelliJ Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2023-06-17T17:41:35</property>
+    <property name="created">2024-02-26T13:44:23</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-12-23T13:58:19</property>
-    <property name="originalScheme">Light</property>
+    <property name="ideVersion">2023.3.4.0.0</property>
+    <property name="modified">2024-02-26T15:49:06</property>
+    <property name="originalScheme">IntelliJ Light</property>
     <property name="partialSave">true</property>
+    <property name="pluginId">com.intellij</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
