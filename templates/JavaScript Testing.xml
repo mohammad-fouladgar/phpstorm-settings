@@ -1,3 +1,5 @@
 <templateSet group="JavaScript Testing">
-  <template name="afe" value="afterEach(function() {&#10;  $END$&#10;});" description="Inserts afterEach() block" toReformat="true" toShortenFQNames="true" />
+  <template name="afe" value="afterEach(function() {&#10;  $END$&#10;});" description="Inserts afterEach() block" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
