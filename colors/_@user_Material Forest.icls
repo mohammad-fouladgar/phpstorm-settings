@@ -1,11 +1,11 @@
-<scheme name="_@user_Night Owl (Material)" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Material Forest" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-05-16T13:48:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.0.0</property>
     <property name="modified">2024-03-10T16:41:27</property>
-    <property name="originalScheme">Night Owl (Material)</property>
+    <property name="originalScheme">Material Forest</property>
     <property name="partialSave">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -26,36 +26,36 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="ActionButton.hoverBackground" value="4d8150" />
-    <option name="FILESTATUS_ADDED" value="a9dc76" />
-    <option name="FILESTATUS_COPIED" value="a9dc76" />
-    <option name="FILESTATUS_DELETED" value="727072" />
-    <option name="FILESTATUS_HIJACKED" value="ffd866" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
+    <option name="ActionButton.hoverBackground" value="3838c0" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="ab9df2" />
-    <option name="FILESTATUS_MODIFIED" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="727072" />
-    <option name="FILESTATUS_SWITCHED" value="ab9df2" />
-    <option name="FILESTATUS_UNKNOWN" value="f59762" />
-    <option name="FILESTATUS_addedOutside" value="ffd866" />
-    <option name="FILESTATUS_changelistConflict" value="f65f87" />
-    <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
+    <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
   </colors>
   <attributes>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="BACKGROUND" value="5454" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="264b33" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c3cee3" />
+        <option name="BACKGROUND" value="5454" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -66,11 +66,18 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="7e57c2" />
+        <option name="BACKGROUND" value="ffcc80" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="c3cee3" />
         <option name="BACKGROUND" value="4a4d50" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
