@@ -4,7 +4,7 @@
     <property name="created">2023-05-16T13:48:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2024-03-09T12:16:23</property>
+    <property name="modified">2024-03-10T14:41:56</property>
     <property name="originalScheme">GitHub (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -27,19 +27,31 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <colors>
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_ADDED" value="85e89d" />
+    <option name="FILESTATUS_COPIED" value="85e89d" />
+    <option name="FILESTATUS_DELETED" value="959da5" />
+    <option name="FILESTATUS_HIJACKED" value="b392f0" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="85e89d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
+    <option name="FILESTATUS_MERGED" value="b392f0" />
+    <option name="FILESTATUS_MODIFIED" value="79b8ff" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="79b8ff" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79b8ff" />
+    <option name="FILESTATUS_OBSOLETE" value="959da5" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_SUPPRESSED" value="959da5" />
+    <option name="FILESTATUS_SWITCHED" value="ffab70" />
+    <option name="FILESTATUS_UNKNOWN" value="ffab70" />
+    <option name="FILESTATUS_addedOutside" value="ffea7f" />
+    <option name="FILESTATUS_changelistConflict" value="f97583" />
+    <option name="FILESTATUS_modifiedOutside" value="b392f0" />
   </colors>
   <attributes>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">

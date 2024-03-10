@@ -36,6 +36,7 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="InlayHintsSettings">
@@ -44,10 +45,6 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_METHOD_BODY" value="true" />
     <option name="COLLAPSE_CLASSES" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
